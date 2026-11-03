@@ -1,0 +1,11 @@
+﻿{
+  "version": "5.2.0",
+  "title": "ApexTweak v5.2 - Ultra Performans ve 0ms Gecikme Paketi",
+  "releaseDate": "2026-11-03 21:14:53",
+  "sizeMb": 0.38,
+  "sizeBytes": 395264,
+  "downloadPath": "https://raw.githubusercontent.com/rois-dev/roitweak/main/ApexTweak_Update.exe",
+  "remoteUrl": "https://raw.githubusercontent.com/rois-dev/roitweak/main/ApexTweak_Update.exe",
+  "isMandatory": false,
+  "changelog": "✨ Yeni nesil ROG GPU Tweak III donanım kontrolleri eklendi.\n⚡ 0ms Win32 DPC gecikme ve BCDedit timer motoru aktif.\n🛠 Windows 11 24H2 çekirdek uyumluluğu ve telemetri dondurma."
+}
